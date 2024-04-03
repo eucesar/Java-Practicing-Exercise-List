@@ -3,13 +3,13 @@
    <img align="center" alt="Cesar-Java" height="100" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </p>
 
-> 🌱👨‍💻 - I developed some exercises in Java for practical studies.
+> 🌱👨‍💻 - STUDYING PROGRAMMING AND OBJECT-ORIENTED PROGRAMMING.
 
 
 ## Download
 
 ```sh
-https://github.com/eucesar/Java-Practicing.git
+https://github.com/eucesar/Java-Practicing-Exercise-List.git
 ```
 
 ## Cesar
